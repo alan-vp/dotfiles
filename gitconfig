@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alan_verrgara_p@hotmail.com
+	name = alan vergara
